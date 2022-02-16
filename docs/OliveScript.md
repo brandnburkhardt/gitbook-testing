@@ -16,4 +16,8 @@ Forget the fat lady! You're obsessed with the fat lady! Drive us out of here! Re
 **Got 5 minutes?** Check out this video overview of the product setup:
 
 
-Insert video here!
+<iframe src="https://player.vimeo.com/video/70591644?h=b8c796fff8&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/70591644">Test Video for Embed</a> from <a href="https://vimeo.com/voteriders">VoteRiders</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+![Generic Unspalsh Local Image](assets/images/juanjo-jaramillo-mZnx9429i94-unsplash.jpg)
+
